@@ -13,11 +13,6 @@ This is code
 
 markdownsample
 =================
-*Bullet 1
-text
-*Bullet 2
-Paragraph text here
-*
 
 ##Support
 *https:www.github.com/rails/rails
