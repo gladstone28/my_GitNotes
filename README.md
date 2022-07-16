@@ -5,11 +5,7 @@ In addition to CodeCademy, I have been using Youtube videos, for example Kevin *
 
 
 ### MORE
-#:+1
-
-'''''
-This is code
-''''''
+our site is published at https://gladstone28.github.io/github.io/
 
 markdownsample
 =================
