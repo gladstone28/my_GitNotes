@@ -15,9 +15,9 @@ markdownsample
 *https:www.github.com/rails/rails/branches
 
 ###copied below
-# Welcome to Rails
+# Welcome to QSLN
 
-## What's Rails?
+## What's QSLN?
 
 Rails is a web-application framework that includes everything needed to
 create database-backed web applications according to the
