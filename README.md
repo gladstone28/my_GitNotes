@@ -13,3 +13,6 @@ This is code
 
 markdownsample
 =================
+*Bullet 1
+*Bullet 2
+Paragraph text here
