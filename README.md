@@ -7,7 +7,7 @@ In addition to CodeCademy, I have been using Youtube videos, for example Kevin *
 ### MORE
 our site is published at https://gladstone28.github.io/github.io/
 
-markdownsample
+markdownsample-as guide
 =================
 
 ##Support
