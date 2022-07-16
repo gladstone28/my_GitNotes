@@ -15,4 +15,5 @@ markdownsample
 =================
 
 ##Support
-*https:www.github.com/rails/rails
+:
+*https:www.github.com/rails/rails/branches
