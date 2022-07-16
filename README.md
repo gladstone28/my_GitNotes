@@ -29,6 +29,7 @@ application into three layers: Model, View, and Controller, each with a specific
 
 ## Model site
 
-our site is published at https://gladstone28.github.io/github.io/
+our site is published at
+#https://gladstone28.github.io/github.io/
 
 
