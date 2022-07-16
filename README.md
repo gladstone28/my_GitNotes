@@ -14,5 +14,6 @@ This is code
 markdownsample
 =================
 *Bullet 1
+text
 *Bullet 2
 Paragraph text here
