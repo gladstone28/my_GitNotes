@@ -10,6 +10,10 @@ our site is published at https://gladstone28.github.io/github.io/
 markdownsample-as guide
 =================
 
+``````ruby
+puts something here
+````````
+
 ##Support
 :
 *https:www.github.com/rails/rails/branches
