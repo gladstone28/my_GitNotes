@@ -10,9 +10,10 @@ our site is published at https://gladstone28.github.io/github.io/
 markdownsample-as guide
 =================
 
-``````ruby
-puts something here
-````````
+```ruby
+puts "something here"
+if this the that
+```
 
 ##Support
 :
