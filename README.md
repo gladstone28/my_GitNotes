@@ -5,7 +5,7 @@ In addition to CodeCademy, I have been using Youtube videos, for example Kevin *
 
 
 ### MORE
-While compltiing the html, css, javascript course at codecademy I built the following website as a way of practicing what I learnt
+While completing the html, css, javascript course at codecademy, I built the following website as a way of practicing what I learnt
 my site is published at https://gladstone28.github.io/github.io/
 
 markdownsample-as guide
