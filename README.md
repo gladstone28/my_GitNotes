@@ -13,7 +13,7 @@ markdownsample-as guide
 
 ```ruby
 puts "something here"
-if this the that
+if this then that
 ```
 
 ##Support
@@ -30,4 +30,9 @@ if this the that
 our site is published at
 #https://gladstone28.github.io/github.io/
 
+then I tried building another site herer
 
+#https://qsljamaica.site/
+
+then another here
+#https://kguc.live/
